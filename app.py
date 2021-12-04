@@ -12,6 +12,7 @@ import questionary
 from pathlib import Path
 
 from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -107,9 +108,37 @@ def save_qualifying_loans(qualifying_loans):
 
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
+    
+    Returns: no return value. if the list of qualified loans is non-empty,
+             and the user chooses to save the loans to a .csv, a .csv file
+             is written and saved to the location specified by the user via
+             a prompt
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
+    if len(qualifying_loans) == 0:
+        print("no qualifying loans to save. exiting.")
+        sys.exit()
+    else:
+        # prompt to save loans
+        want_to_save = questionary.select(
+            "Would you like to save the qualifying loans as a .csv file?",
+            choices=[
+                "yes",
+                "no"
+                ]).ask()
+        if want_to_save == "yes":
+            # save the loans to the path in csv_save_path
+            csv_save_path = questionary.text("Enter a file path to save the .csv, eg: data/qualified.csv:").ask()
+            csv_save_path = Path(csv_save_path)
+            print(qualifying_loans)
+            print(type(qualifying_loans))
+            print(len(qualifying_loans))
+            save_csv(csv_save_path,qualifying_loans)
+
+        else:
+            print(f"Not saving loans to file.")
+
 
 
 def run():
@@ -126,8 +155,12 @@ def run():
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
 
-    # Save qualifying loans
-    save_qualifying_loans(qualifying_loans)
+    # if no qualifying loans, just notify user and exit
+    # else prompt to save qualifying loans
+    if  len(qualifying_loans) == 0:
+        sys.exit(f"No qualifying loans to save. Exiting.")
+    else:
+        save_qualifying_loans(qualifying_loans)
 
 
 if __name__ == "__main__":

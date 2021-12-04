@@ -28,3 +28,22 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+
+def save_csv(csvpath, csv_data_list):
+    """
+    Writes a rate_sheet csv file to location specified by csvpath.
+
+    Inputs:
+        csvpath (Path) the csv file path to write to
+        csv_data_list (list) of bank rate sheet entries. each item in the list is
+            a list matching the following ordering/format six items:
+                Lender,Max Loan Amount,Max LTV,Max DTI,Min Credit Score,Interest Rate
+    
+    Returns: nothing is explicitly returned. A csv file is written to disk.
+
+    """
+    csv_header = "Lender,Max Loan Amount,Max LTV,Max DTI,Min Credit Score,Interest Rate".split(',')
+    with open(csvpath, 'w') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(csv_header)
+        writer.writerows(csv_data_list)
