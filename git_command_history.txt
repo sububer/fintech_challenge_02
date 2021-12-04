@@ -1,0 +1,13 @@
+ 1085  git add README.md
+ 1086  git add app.py
+ 1087  git add data/daily_rate_sheet.csv
+ 1088  git add environment.yml
+ 1089  git add qualifier/filters/*
+ 1090  git add qualifier/utils/*
+ 1091  git status
+ 1092  git commit -m 'initial seed of loan qualifier files, readme, environement, application, data'
+ 1093  git status
+ 1094  git push origin main
+ 1095  git status
+ 1099  git status
+ 1100  history | grep git
