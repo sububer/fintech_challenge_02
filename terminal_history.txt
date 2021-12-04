@@ -1,3 +1,1038 @@
+   50  conda activate dev
+   51  source /opt/anaconda3/bin/activate
+   52  conda activate dev
+   53  source /opt/anaconda3/bin/activate
+   54  conda activate dev
+   55   /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60869 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   56   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60879 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   57   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60904 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   58   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60943 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   59   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60953 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   60   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60973 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   61   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60996 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   62   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61026 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   63   cd /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61061 -- /Users/dfl/Desktop/Fintech-Workspace/challenges/01/Starter_Code/fintech_challenge_01/GitHub_Upload/loan_analyzer.py 
+   64  source /opt/anaconda3/bin/activate
+   65  conda activate dev
+   66   /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 58990 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+   67  ls
+   68  cd Unsolved
+   69  ls
+   70   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Loan_Qualifier_Financial_Calculations ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59000 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+   71  ls
+   72  ls Unsolved
+   73   /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59022 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+   74   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Loan_Qualifier_Financial_Calculations/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59029 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+   75   /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60512 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/02_Loan_Qualifier_Filtering_Data/Solved/app.py 
+   76  source /opt/anaconda3/bin/activate
+   77  conda activate dev
+   78   /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50088 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+   79  source /opt/anaconda3/bin/activate
+   80  conda activate dev
+   81   /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51017 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+   82  source /opt/anaconda3/bin/activate
+   83  conda activate dev
+   84   /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50901 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application/app.py 
+   85   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50908 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application/app.py 
+   86   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50921 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application/app.py 
+   87   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50929 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/01_Modularize_Your_Loan_Qualifier_Application/app.py 
+   88  source /opt/anaconda3/bin/activate
+   89  conda activate dev
+   90   /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51542 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+   91   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51549 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+   92   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51554 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+   93   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51569 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py 
+   94   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51593 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py 
+   95   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51639 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py 
+   96   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51646 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py 
+   97   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51684 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py 
+   98  ls
+   99  cd ..
+  100  ls
+  101  cd 01_Stu_Python_Code_Drills
+  102  ls
+  103  cd Unsolved
+  104  ls
+  105  cd 09-csv-01
+  106  ls
+  107  cd Unsolved
+  108  ls
+  109  cat ../Resources/pokemon.csv cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51692 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py 
+  110  source /opt/anaconda3/bin/activate
+  111  conda activate dev
+  112   /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51670 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py 
+  113   /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51123 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/cli.py 
+  114   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02 ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51128 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/cli.py 
+  115  clear
+  116   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02 ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51135 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/cli.py 
+  117   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02 ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51152 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/cli.py 
+  118   cd /Users/dfl/Desktop/Fintech-Workspace/modules/02 ; /usr/bin/env /opt/anaconda3/envs/dev/bin/python /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51156 -- /Users/dfl/Desktop/Fintech-Workspace/modules/02/cli.py 
+  119   /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51794 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py 
+  120   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/03_Inst_ATM_Application_Logic ; /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51801 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py 
+  121   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/03_Inst_ATM_Application_Logic ; /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51807 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py 
+  122   /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51922 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  123   cd /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/04_Stu_ATM_Application_Code ; /usr/bin/env /usr/bin/python3 /Users/dfl/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51926 -- /Users/dfl/Desktop/Fintech-Workspace/activities/20211130/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  124  cd Desktop
+  125  ls
+  126  cd Fintech-Workspace
+  127  ls
+  128  mkdir student_clones
+  129  ls
+  130  ls -al
+  131  rm -rf student_clones
+  132  mkdir class_repo
+  133  exit
+  134  cd /Users/dfl/Desktop/Fintech-Workspace/modules/02
+  135  ls
+  136  cd 02_Loan_Qualifier_Filtering_Data
+  137  ls
+  138  cd Unsolved
+  139  ls
+  140  code .
+  141  cd ..
+  142  cd ..
+  143  ls
+  144  mv ~/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2.zip .
+  145  ls -al
+  146  unzip 01_Modularize_Your_Loan_Qualifier_Application_Part_2.zip
+  147  ls
+  148  ls -al
+  149  history | grep conda
+  150  conda activate dev
+  151  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  152  ls
+  153  cd Unsolved
+  154  ls -al
+  155  code .
+  156  pwd
+  157  exit
+  158  cd /Users/dfl/Desktop/Fintech-Workspace
+  159  ls
+  160  ls -l
+  161  code .
+  162  exit
+  163  which conda
+  164  conda init zsh
+  165  ls
+  166  ls -al
+  167  cd
+  168  ls -a
+  169  cat .zprofile
+  170  cat .zshrc
+  171  cd
+  172  ls
+  173  cd Documents
+  174  ls
+  175  cd src
+  176  ls
+  177  cd ..
+  178  ls
+  179  ls -al
+  180  mkdir fintech
+  181  cd fintech
+  182  ls
+  183  pwd
+  184  mkdir py37
+  185  cd py37
+  186  conda create -n dev python=3.7
+  187  ls
+  188  python -V
+  189  conda activate dev
+  190  python -V
+  191  conda deactivate
+  192  ls -al
+  193  mkdir class_01
+  194  mkdir class_02
+  195  mv ~/Downloads/Class_1_Activities.zip class_01
+  196  mv ~/Downloads/Class_2_Activities.zip class_02
+  197  ls -al
+  198  cd class_01
+  199  ls -al
+  200  unzip Class_1_Activities.zip
+  201  code .
+  202  ls -al
+  203  code .
+  204  cd Class_1_Activities
+  205  ls
+  206  code .
+  207  pwd
+  208  code .
+  209  conda list
+  210  conda env list
+  211  conda activate dev
+  212  conda env list
+  213  code .
+  214  code .
+  215  pwd
+  216  pwd
+  217  cd 
+  218  cd Desktop
+  219  mkdir Fintech-Workspace
+  220  cd Fin
+  221  pwd
+  222  cd Fintech-Workspace
+  223  ls
+  224  pwd
+  225  code .
+  226  ls
+  227  cd Python_Project
+  228  ls
+  229  python hello_python.py
+  230  python hello_python.py
+  231  python hello_python.py
+  232  python --version
+  233  code .
+  234  pwd
+  235  ls -al
+  236  cd ..
+  237  pwd
+  238  ls -al
+  239  mv ~/Downloads/01_Hello_Variable_World.zip .
+  240  unzip 01_Hello_Variable_World.zip
+  241  ls -al
+  242  rm -rf __MACOSX
+  243  cd 01_Hello_Variable_World
+  244  ls
+  245  code .
+  246  ls
+  247  cd ..
+  248  ls -al
+  249  touch lists.py
+  250  code .
+  251  mv ~/Downloads/02_Listing_Assets.zip .
+  252  ls
+  253  unzip 02_Listing_Assets.zip
+  254  ls -al
+  255  rm -rf __MACOSX
+  256  code .
+  257  mv ~/Downloads/03_The_401k_Shuffle.zip .
+  258  ls
+  259  unzip 03_The_401k_Shuffle.zip
+  260  ls -al
+  261  ls
+  262  mkdir conditionals
+  263  mv ~/Downloads/01_Conditional_Statement.zip
+  264  mv ~/Downloads/01_Conditional_Statement.zip conditionals
+  265  cd conditionals
+  266  ls
+  267  unzip 01_Conditional_Statement.zip
+  268  ls
+  269  rm -rf __MACOSX
+  270  cd ..
+  271  ls
+  272  ls -al
+  273  tree
+  274  mv ~/Downloads/02_Nested_Conditionals.zip conditionals/
+  275  cd conditionals
+  276  ls
+  277  unzip 02_Nested_Conditionals.zip
+  278  ls -al
+  279  rm -rf __MACOSX
+  280  cd ..
+  281  pwd
+  282  ls
+  283  mv ~/Downloads/03_Split_Second_Homebuying.zip conditionals/
+  284  cd conditionals
+  285  ls
+  286  unzip 03_Split_Second_Homebuying.zip
+  287  ls -al
+  288  rm -rf __MACOSX
+  289  ls
+  290  cd ..
+  291  mkdir functions
+  292  mv ~/Downloads/01_A_Definitive_Buy.zip functions/
+  293  cd functions
+  294  ls
+  295  unzip 01_A_Definitive_Buy.zip
+  296  ls
+  297  rm -rf __MACOSX
+  298  ls
+  299  cd ..
+  300  mv ~/Downloads/02_Returned_Goods.zip functions/
+  301  cd functions
+  302  ls
+  303  ls
+  304  pwd
+  305  ls -al
+  306  unzip 02_Returned_Goods.zip
+  307  ls -al
+  308  rm -rf __MACOSX
+  309  ls
+  310  mv ~/Downloads/03_Split_Second_Homebuying_Part_2.zip functions/
+  311  ls
+  312  mv ~/Downloads/03_Split_Second_Homebuying_Part_2.zip .
+  313  ls
+  314  unzip 03_Split_Second_Homebuying_Part_2.zip
+  315  ls -al
+  316  rm -rf __MACOSX
+  317  cd ..
+  318  ls
+  319  ls -al ~/Downloads
+  320  ls
+  321  mv ~/Downloads/03_Split_Second_Homebuying_Part_2.zip functions/
+  322  cd functions
+  323  ls
+  324  unzip 03_Split_Second_Homebuying_Part_2
+  325  ls -al
+  326  rm -rf __MACOSX
+  327  cd ..
+  328  ls
+  329  mkdir looping
+  330  mv ~/Downloads/01_Racking_Up_The_Profit.zip looping
+  331  cd looping
+  332  ls
+  333  unzip 01_Racking_Up_The_Profit.zip
+  334  ls -al
+  335  rm -rf __MACOSX
+  336  cd ..
+  337  touch data.csv
+  338  mkdir files
+  339  mv ~/Downloads/02_Pathways_to_Success_Part_1.zip files
+  340  cd files
+  341  ls
+  342  unzip 02_Pathways_to_Success_Part_1.zip
+  343  ls
+  344  ls -al
+  345  rm -rf __MACOSX
+  346  ls
+  347  cd ..
+  348  cd files
+  349  ls
+  350  cd 02_Pathways_to_Success_Part_1
+  351  ls
+  352  cp Resources/quarterly_data.csv Unsolved
+  353  mv ~/Downloads/01_Read_and_Write_CSV.zip .
+  354  ls
+  355  pwd
+  356  cd ../..
+  357  pwd
+  358  ls
+  359  mv files/02_Pathways_to_Success_Part_1/01_Read_and_Write_CSV.zip .
+  360  ls
+  361  unzip 01_Read_and_Write_CSV.zip
+  362  ls
+  363  cd 01_Read_and_Write_CSV
+  364  ls
+  365  touch read_csv.py
+  366  ls
+  367  ls -al
+  368  chmod +rw quarterly_data.csv
+  369  ls
+  370  python read_csv.py
+  371  code .
+  372  python read_csv.py
+  373  ls -al
+  374  cd ..
+  375  mv ~/Downloads/03_Pathways_to_Success_Part_2.zip .
+  376  unzip 03_Pathways_to_Success_Part_2.zip
+  377  ls
+  378  rm -rf __MACOSX
+  379  ls -al
+  380  cd 03_Pathways_to_Success_Part_2
+  381  ls
+  382  cd Unsolved
+  383  ls
+  384  code .
+  385  ls
+  386  cd ../
+  387  cd ../
+  388  ls
+  389  mkdir csvwriting
+  390  cd csvwriting
+  391  touch writer.py
+  392  code .
+  393  code .
+  394  ls
+  395  cat my_output.csv
+  396  cat my_output.csv
+  397  ls
+  398  pwd
+  399  ls -al
+  400  cd ..
+  401  ls
+  402  mv ~/Downloads/04_Automating_Equity_Rounds.zip files
+  403  cd files
+  404  ls
+  405  unzip 04_Automating_Equity_Rounds.zip
+  406  ls -al
+  407  rm -rf __MACOSX
+  408  cd ..
+  409  ls
+  410  cd files
+  411  ls
+  412  cd 04_Automating_Equity_Rounds
+  413  ls
+  414  code .
+  415  ls
+  416  cd Unsolved
+  417  code .
+  418  ls
+  419  cat well_funded.csv
+  420  ls
+  421  cd ..
+  422  ls
+  423  rm well_funded.csv
+  424  cd ..
+  425  pwd
+  426  mkdir module1
+  427  rm -rf module1
+  428  pwd
+  429  pwd
+  430  cd ..
+  431  ls
+  432  mkdir challenges
+  433  cd challenges
+  434  ls
+  435  mkdir 01
+  436  cd 01
+  437  mv ~/Downloads/Starter_Code.zip .
+  438  ls -al
+  439  unzip Starter_Code.zip
+  440  ls -al
+  441  rm -rf __MACOSX
+  442  ls
+  443  cd Starter_Code
+  444  ls
+  445  pwd
+  446  ls -al
+  447  rm -rf .DS_Store
+  448  ls -al
+  449  code .
+  450  pwd
+  451  pwd
+  452  ls -al
+  453  git clone git@github.com:sububer/fintech_challenge_01.git
+  454  mv loan_analyzer.py fintech_challenge_01
+  455  cd fintech_challenge_01
+  456  ls
+  457  ls -al
+  458  mkdir GitHub_Upload
+  459  mv loan_analyzer.py GitHub_Upload
+  460  ls -al
+  461  git status
+  462  git status
+  463  git config --help
+  464  git config --get-all
+  465  git config --help
+  466  git config --global user.email "dflindc@yahoo.com"
+  467  git config --global user.name "David Lopez"
+  468  git status
+  469  code .
+  470  open .
+  471  pwd
+  472  ls
+  473  pwd
+  474  cd ..
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd ..
+  479  pwd
+  480  cd ..
+  481  ls
+  482  pwd
+  483  mkdir activities
+  484  cd activities
+  485  ls
+  486  mkdir class_01
+  487  ls
+  488  mv ~/Downloads/Class_* .
+  489  ls
+  490  ls -al
+  491  unzip Class_2_Activities.zip
+  492  ls -al
+  493  cd Class_1_Activities
+  494  ls
+  495  ls -al
+  496  code .
+  497  pwd
+  498  cd ..
+  499  ls
+  500  pwd
+  501  cd ..
+  502  ls
+  503  cd challenges
+  504  ls
+  505  cd 01
+  506  ls
+  507  cd Starter_Code
+  508  ls
+  509  cd fintech_challenge_01
+  510  ls
+  511  ls-al
+  512  ls
+  513  cd GitHub_Upload
+  514  ls
+  515  python loan_analyzer.py
+  516  code .
+  517  python loan_analyzer.py
+  518  python loan_analyzer.py
+  519  python loan_analyzer.py
+  520  date
+  521  code .
+  522  code .
+  523  code .
+  524  cd
+  525  cd Desktop
+  526  ls
+  527  ls
+  528  cd Fintech-Workspace
+  529  ls
+  530  cd activities
+  531  ls
+  532  ls -al
+  533  cd Class_1_Activities
+  534  ls
+  535  cd 02_Stu_Percent_Increase
+  536  ls
+  537  cd Unsolved
+  538  code .
+  539  cd ..
+  540  ls
+  541  cd ..
+  542  ls
+  543  code .
+  544  ls
+  545  cd cd ../
+  546  pwd
+  547  cd ../../
+  548  ls
+  549  cd challenges
+  550  ls
+  551  cd 01
+  552  ls
+  553  cd Starter_Code
+  554  ls
+  555  cd fintech_challenge_01
+  556  ls
+  557  cd GitHub_Upload
+  558  code .
+  559  pwd
+  560  ls
+  561  code .
+  562  pwd
+  563  ls -al
+  564  cat inexpensive_loans.csv
+  565  cat inexpensive_loans.csv
+  566  cat inexpensive_loans.csv
+  567  pwd
+  568  cd ..
+  569  ls
+  570  cd GitHub_Upload
+  571  cd ..
+  572  ls -al
+  573  cd GitHub_Upload
+  574  ls -al
+  575  cat inexpensive_loans.csv
+  576  open .
+  577  pip -V
+  578  pip -V
+  579  pwd
+  580  cd ../../../
+  581  ls
+  582  cd ..
+  583  pwd
+  584  cd ..
+  585  ls
+  586  pwd
+  587  pip -V
+  588  pip freeze
+  589  pip install fire
+  590  ls -al
+  591  ls
+  592  cd activities
+  593  ls
+  594  ls -al
+  595  mkdir week_01
+  596  ls -al class_01
+  597  rm -rf class_01
+  598  ls
+  599  open .
+  600  ls
+  601  mkdir module_02
+  602  cd module_02
+  603  ls
+  604  ls -al
+  605  mv ~/Downloads/Class* .
+  606  ls -al
+  607  cd ..
+  608  ls
+  609  cd ..
+  610  ls -al
+  611  mkdir module_01
+  612  mkdir modules
+  613  rm -rf module_01
+  614  cd modules
+  615  mkdir 01
+  616  mkdir 02
+  617  open .
+  618  ls
+  619  cd 02
+  620  pwd
+  621  ls -al
+  622  cd
+  623  cd Desktop
+  624  ls
+  625  cd Fintech-Workspace
+  626  ls
+  627  ls
+  628  cd activities
+  629  ls
+  630  cd ..
+  631  ls
+  632  ls -al
+  633  cd modules/02
+  634  ls
+  635  ls a-l
+  636  ls -al
+  637  pwd
+  638  mv ~/Downloads/01_Loan_Qualifier_Financial_Calculations.zip .
+  639  ls
+  640  unzip 01_Loan_Qualifier_Financial_Calculations.zip
+  641  ls -al
+  642  cd 01_Loan_Qualifier_Financial_Calculations
+  643  ls
+  644  code .
+  645  ls
+  646  cd Unsolved
+  647  ls
+  648  code .
+  649  cd ..
+  650  ls
+  651  cat Solved/app.py
+  652  ls
+  653  cd ../../
+  654  ls
+  655  cd 02
+  656  ls
+  657  ls -al
+  658  ls
+  659  mv ~/Downloads/02_Loan_Qualifier_Filtering_Data.zip .
+  660  ls
+  661  unzip 02_Loan_Qualifier_Filtering_Data.zip
+  662  ls
+  663  ls -al
+  664  ls
+  665  cd 02_Loan_Qualifier_Filtering_Data
+  666  ls
+  667  cd Solved
+  668  ls
+  669  ls -al data
+  670  code ..
+  671  code .
+  672  pwd
+  673  cd ../
+  674  ls -al
+  675  cd Unsolved
+  676  ls -al
+  677  code .
+  678  pwd
+  679  pwd
+  680  ls
+  681  pwd
+  682  cd ../../
+  683  ls
+  684  pwd
+  685  pwd
+  686  mv ~/Downloads/01_Modularize_Your_Loan_Qualifier_Application.zip .
+  687  ls -al
+  688  unzip 01_Modularize_Your_Loan_Qualifier_Application.zip 
+  689  ls -al
+  690  rm -rf __MACOSX
+  691  ls
+  692  cd 01_Modularize_Your_Loan_Qualifier_Application
+  693  ls
+  694  ls -al
+  695  cat daily_rate_sheet.csv
+  696  ls
+  697  code .
+  698  pwd
+  699  pwd
+  700  ls
+  701  cd ..
+  702  ls
+  703  pwd
+  704  ls -l
+  705  touch cli.py
+  706  vi cli.py
+  707  python cli.py
+  708  code .
+  709  python cli.py
+  710  python cli.py
+  711  python cli.py
+  712  python cli.py --pants=True
+  713  python cli.py --pants=asdf
+  714  python cli.py --pants=''
+  715  python cli.py --pants=True
+  716  python cli.py --pants=True
+  717  python cli.py --pants=True
+  718  python cli.py --pants=True
+  719  python cli.py --pants=False
+  720  pwd
+  721  cd ..
+  722  ls
+  723  cd ..
+  724  ls
+  725  cd activities
+  726  ls
+  727  cd module_02
+  728  ls
+  729  unzip Class_1_Activities.zip
+  730  ls -al
+  731  pwd
+  732  cd ..
+  733  ls
+  734  mkdir 20211130
+  735  cd 20211130
+  736  mv ~/Downloads/Class_1_Activities.zip .
+  737  ls
+  738  unzip Class_1_Activities.zip
+  739  ls
+  740  ls
+  741  rm -rf __MACOSX
+  742  cd Class_1_Activities
+  743  code .
+  744  pwd
+  745  ls
+  746  cd 01_Stu_Python_Code_Drills
+  747  code .
+  748  ls
+  749  cd Unsolved
+  750  ls
+  751  cd 09-csv-01
+  752  ls
+  753  cd Unsolved
+  754  ls
+  755  ls -al
+  756  code .
+  757  cd ..
+  758  ls
+  759  pwd
+  760  cd ../../
+  761  ls
+  762  cd ..
+  763  ls
+  764  cd 02_Stu_ATM_User_Stories
+  765  ls -al
+  766  code .
+  767  pwd
+  768  cd ..
+  769  ls
+  770  cd 03_Inst_ATM_Application_Logic
+  771  ls
+  772  cd Unsolved
+  773  ls
+  774  cd ..
+  775  code .
+  776  ls
+  777  cd ..
+  778  ls
+  779  cd 04_Stu_ATM_Application_Code
+  780  ls
+  781  code .
+  782  cd ..
+  783  ls
+  784  cd 05_Stu_ATM_Modularization
+  785  ls
+  786  cd Unsolved
+  787  cd ..
+  788  ls
+  789  code .
+  790  ls
+  791  cd Unsolved
+  792  ls
+  793  cd Images
+  794  ls
+  795  open .
+  796  cd ..
+  797  ls
+  798  cd atm
+  799  ls
+  800  python atm.py
+  801  python atm.py
+  802  python atm.py
+  803  python atm.py
+  804  cd ..
+  805  ls
+  806  cd ../../
+  807  pwd
+  808  cd ..
+  809  ls
+  810  cd ..
+  811  ls
+  812  cd ..
+  813  pwd
+  814  ls -al
+  815  conda deactivate
+  816  exit
+  817  cd
+  818  cd Documents
+  819  ls
+  820  cd udemy
+  821  ls
+  822  cd rune_python_investing
+  823  ls
+  824  cd PyFinance
+  825  ls
+  826  cd 02\ -\ Intrinsic\ Value
+  827  ls
+  828  ls -al
+  829  cat stock_data.csv
+  830  exit
+  831  cd Desktop
+  832  ls
+  833  cd Fin
+  834  cd Fintech-Workspace
+  835  ls
+  836  ls -al
+  837  cd modules
+  838  ls
+  839  cd 02
+  840  ls
+  841  conda activate dev
+  842  ls
+  843  code .
+  844  ls -al
+  845  pwd
+  846  cd ..
+  847  ls -al
+  848  cd ..
+  849  ls
+  850  mkdir in_class
+  851  cd in_class
+  852  ls -al
+  853  mkdir 20211202
+  854  ls
+  855  rm -rf 20211202
+  856  ls
+  857  git status
+  858  ls -al
+  859  pwd
+  860  git clone git@github.com:celi3t/FinTech-UW-2021-11.git
+  861  ls -al
+  862  cd FinTech-UW-2021-11
+  863  ls
+  864  git status
+  865  git pull
+  866  git pull --rebase
+  867  git log
+  868  ls
+  869  cd 02-Financial-Applications-Python
+  870  ls
+  871  ls -al
+  872  ls
+  873  cd 2
+  874  ls -l
+  875  code .
+  876  ls
+  877  cd Activities
+  878  ls
+  879  cd 01_Ins_ATM_Application
+  880  ls
+  881  cd Unsolved
+  882  ls
+  883  cd ..
+  884  code .
+  885  ls
+  886  cd Unsolved
+  887  ls
+  888  code .
+  889  ls -al
+  890  git status
+  891  cd atm
+  892  ls -l
+  893  cat requirements.txt
+  894  pip install
+  895  pip --help
+  896  pip install --help
+  897  pip install -r requirements.txt
+  898  code .
+  899  conda env list
+  900  code .
+  901  cd ..
+  902  ls
+  903  cd ..
+  904  ls
+  905  cd ..
+  906  conda env list
+  907  conda deactivate
+  908  ls -al
+  909  cd 02_Stu_Build_ATM_Functions
+  910  ls
+  911  code .
+  912  ls
+  913  cd Unsolved
+  914  conda create --name atm python=3.7
+  915  conda activate atm
+  916  ls
+  917  pwd
+  918  ls -al
+  919  ls -l
+  920  ls -al
+  921  pip install -r requirements.txt
+  922  code .
+  923  ls
+  924  cd atm
+  925  ls
+  926  python atm.py
+  927  python atm.py
+  928  python atm.py
+  929  python atm.py
+  930  python atm.py
+  931  python atm.py
+  932  python atm.py
+  933  ls
+  934  cd ../../../
+  935  ls
+  936  cd 03_Stu_Create_Github_Repository
+  937  ls -al
+  938  code .
+  939  ls -al
+  940  code .
+  941  git clone git@github.com:sububer/ATM_App.git
+  942  ls
+  943  pwd
+  944  cd ATM_App
+  945  git status
+  946  ls -al
+  947  open .
+  948  code .
+  949  open .
+  950  git status
+  951  code .
+  952  git status
+  953  git add requirements.txt
+  954  git add atm/*
+  955  git status
+  956  git add .gitignore
+  957  git status
+  958  git status
+  959  git add README.md
+  960  git status
+  961  git commit -m "seeding the atm app into github'
+  962  git commit -m "seeding the atm app into github"
+  963  git status
+  964  git push origin main
+  965  ls
+  966  ls -al
+  967  ls
+  968  code .
+  969  ls
+  970  cd ../../
+  971  ls
+  972  cd 04_Stu_Explore_ReadMes
+  973  ls -al
+  974  code .
+  975  ls -al
+  976  cd ..
+  977  pwd
+  978  cd ../../../
+  979  pwd
+  980  cd ..
+  981  ls
+  982  cd ..
+  983  pwd
+  984  ls -l
+  985  history | grep create
+  986  touch README.txt
+  987  vi README.txt
+  988  pwd
+  989  mv ~/Downloads/PyFinance.zip .
+  990  ls
+  991  ls
+  992  mv PyFinance.zip /Users/dfl/Documents/udemy/rune_python_investing
+  993  history | grep conda
+  994  conda list
+  995  conda env list
+  996  pwd
+  997  source deactivate
+  998  conda deactivate
+  999  pwd
+ 1000  exit
+ 1001  cd
+ 1002  cd Desktop
+ 1003  ls
+ 1004  cd
+ 1005  ls
+ 1006  cd Documents
+ 1007  ls
+ 1008  cd fintech
+ 1009  ls
+ 1010  ls -al
+ 1011  ls -al
+ 1012  code .
+ 1013  open .
+ 1014  ls -al
+ 1015  mkdir challenges
+ 1016  cd challenges
+ 1017  ls
+ 1018  mv ~/Downloads/Starter_Code.zip .
+ 1019  ls
+ 1020  unzip Starter_Code.zip
+ 1021  ls -al
+ 1022  cd Starter_Code
+ 1023  code .
+ 1024  ls
+ 1025  pwd
+ 1026  cd ..
+ 1027  ls
+ 1028  ls -al
+ 1029  pwd
+ 1030  git clone git@github.com:sububer/fintech_challenge_02.git
+ 1031  cd fintech_challenge_02
+ 1032  git status
+ 1033  history | grep config
+ 1034  git config --list
+ 1035  code . 
+ 1036  pwd
+ 1037  ls -al
+ 1038  pwd
+ 1039  open .
+ 1040  git status
+ 1041  ls -al
+ 1042  ls -al
+ 1043  ls -al data
+ 1044  pwd
+ 1045  cd ..
+ 1046  ls -al
+ 1047  rm -rf fintech_challenge_02
+ 1048  git clone git@github.com:sububer/fintech_challenge_02.git
+ 1049  cd fintech_challenge_02
+ 1050  ls -al
+ 1051  touch app.py
+ 1052  ls
+ 1053  mkdir data
+ 1054  mkdir qualifier
+ 1055  cd qualifier
+ 1056  mkdir filters
+ 1057  mkdir utils
+ 1058  cd filters
+ 1059  ls
+ 1060  pwd
+ 1061  ls -l
+ 1062  touch credit_score.py
+ 1063  touch debt_to_income.py
+ 1064  touch loan_to_value.py
+ 1065  touch max_loan_size.py
+ 1066  cd ..
+ 1067  ls
+ 1068  cd utils
+ 1069  ls
+ 1070  touch calculators.py
+ 1071  touch fileio.py
+ 1072  conda create --name challenge_02 python=3.7
+ 1073  conda activate challenge_02
+ 1074  pip install fire
+ 1075  pip install questionary
+ 1076  cd ../../
+ 1077  ls
+ 1078  ls -al
+ 1079  conda list
+ 1080  ls
+ 1081  conda env export > environment.yml
+ 1082  python -V
+ 1083  code code .
+ 1084  git status
  1085  git add README.md
  1086  git add app.py
  1087  git add data/daily_rate_sheet.csv
@@ -9,5 +1044,44 @@
  1093  git status
  1094  git push origin main
  1095  git status
+ 1096  ls
+ 1097  ls -al
+ 1098  code .
  1099  git status
  1100  history | grep git
+ 1101  history | grep git > git_command_history.txt
+ 1102  cat git_command_history.txt
+ 1103  git status
+ 1104  git add git_command_history.txt
+ 1105  git status
+ 1106  git commit -m 'adding git command history file
+ 1107  git commit -m 'adding git command history file'
+ 1108  git status
+ 1109  git push origin main
+ 1110  ls
+ 1111  python app.py
+ 1112  python app.py
+ 1113  python app.py
+ 1114  python app.py
+ 1115  python app.py
+ 1116  code .
+ 1117  python app.py
+ 1118  python app.py
+ 1119  python app.py
+ 1120  python app.py
+ 1121  code .
+ 1122  python app.py
+ 1123  git status
+ 1124  ls
+ 1125  history 50
+ 1126  ls
+ 1127  git status
+ 1128  git add app.py
+ 1129  git add qualifier/utils/fileio.py
+ 1130  git add data/qualified_loans.csv
+ 1131  git mv git_command_history.txt terminal_history.txt
+ 1132  git status
+ 1133  git commit -m 'initial working implementation of loan qualifier, with prompt/saving functionality'
+ 1134  git push origin main
+ 1135  history | grep git > terminal_history.txt
+ 1136  cat terminal_history.txt
