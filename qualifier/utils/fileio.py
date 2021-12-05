@@ -33,7 +33,7 @@ def save_csv(csvpath, csv_data_list):
     """
     Writes a rate_sheet csv file to location specified by csvpath.
 
-    Inputs:
+    Args:
         csvpath (Path) the csv file path to write to
         csv_data_list (list) of bank rate sheet entries. each item in the list is
             a list matching the following ordering/format six items:
